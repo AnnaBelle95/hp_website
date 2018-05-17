@@ -17,3 +17,25 @@ description: gulf shrimp, chicken, vermicelli noodles, roasted peanut<br>
 <span style="color: orange"> **Price: 14** </span>
 
 ---
+
+Table
+<br>
+---
+<table>
+    <tr>
+    <th>date</th>
+    <th>categories</th>
+    <th>type</th>
+    <th>title</th>
+    <th>description</th>
+    <th>price</th>
+    </tr>
+    <tr>
+        <td>2018-05-17T22:38:26Z</td>
+         <td><ul ##>*Lunch*</ul ##></td> 
+         <td ####> Rolls </td ####>  
+        <td> **crispy imperial rolls** </td>
+        <td>gulf shrimp, chicken, vermicelli noodles, roasted peanut</td>
+        <td>14</td>
+    </tr>
+</table>

@@ -14,7 +14,7 @@ type: rolls<br>
 title: crispy imperial rolls<br>
 description: gulf shrimp, chicken, vermicelli noodles, roasted peanut<br>
 
-<span style="color: orange"> **Price: 14** </span>
+<font color="orange"> **Price: 14** </font>
 
 ---
 

@@ -11,7 +11,6 @@ import cssextend from "postcss-simple-extend";
 import BrowserSync from "browser-sync";
 import webpack from "webpack";
 import webpackConfig from "./webpack.conf";
-import CMS from 'netlify-cms';
 
 const browserSync = BrowserSync.create();
 const hugoBin = "hugo";
@@ -93,5 +92,3 @@ function buildSite(cb, options) {
     }
   });
 }
-
-CMS.registerPreviewTemplate('my-template', MyTemplate);

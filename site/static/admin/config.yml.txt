@@ -1,9 +1,10 @@
 backend:
-  name: github
+  name: git-gateway
   repo: AnnaBelle95/hp_website
   branch: master # Branch to update (optional; defaults to master)
 
 media_folder: "src/img/gallery" # Folder where user uploaded files should go
+public_folder: "img/gallery"
 
 collections: 
   - name: food

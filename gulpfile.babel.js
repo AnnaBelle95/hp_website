@@ -94,4 +94,4 @@ function buildSite(cb, options) {
   });
 }
 
-CMS.registerPreviewTemplate('my-template', MyTemplate)
+CMS.registerPreviewTemplate('my-template', MyTemplate);
